@@ -49,7 +49,7 @@ Problem_Set_02/
 
 --Problem_Set_02.ipynb
 --README.md
- --dataset (loaded from GitHub)
+--dataset (loaded from GitHub)
 ```
 
 
